@@ -52,6 +52,7 @@ https://youtu.be/gxfe8FVCXWY?si=cXpu5NE6Ko3vAxDA
 두 방법의 차이는 다음과 같이 확인 할 수 있습니다. 그림 (a)(b)에서 실린더로 표현된 궤적은 프레임 마다 비트가 되는 관절의 속도를 나타내는데 초록색에 가까울수록 큰 속도를 나타냅니다. 그림을 통해 알 수 있듯이 본 논문의 방법이 기존 방법보다 속도의 변화가 적고 부드럽게 이동하여 연결되는 비트를 더 강조 할 수 있습니다.
 <br><br>
 <img src="https://github.com/jong1-choi/MotionGraphsforDance/blob/main/Images/image16.png">
+<img src="https://github.com/jong1-choi/MotionGraphsforDance/blob/main/Images/demo1.gif">
 영상으로 확인하면 다음과 같습니다. 파란색을 보시면 앞 모션의 마지막 비트가 트랜지션 모션의 빠른 속도 때문에 잘 관측되지 않지만, 빨간색에서는 해당 동작의 비트를 강조하고 다음 모션의 비트로 넘어가는 것을 확인할 수 있습니다.
 <br><br>
 <img src="https://github.com/jong1-choi/MotionGraphsforDance/blob/main/Images/image17.png">
